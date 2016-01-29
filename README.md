@@ -1,4 +1,4 @@
-This code uses nVidia’s GPU CUDA API to run a spectral signature comparison between a provided spectral library file and a signature the user provides.  The actual comparison is carried out by a cosine similarity metric. 
+SWIR Signal Detection uses nVidia’s GPU CUDA API to run a spectral signature comparison between a provided spectral library file and a signature the user provides.  The actual comparison is carried out by a cosine similarity metric. 
 
 This code is used in support of the spectral library code found here:
 
