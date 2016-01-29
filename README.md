@@ -4,7 +4,7 @@ This code is used in support of the spectral library code found here:
 
 https://github.com/ngageoint/Spectral-Library-Reader
 
-For those with access to Digital Globe SWIR Data, a reader for that data that can be used to provide input for this repo’s code can be found here:
+For those with access to Digital Globe SWIR Data, a reader for that data that can be used to provide input for this repo’s code:
 
 https://github.com/ngageoint/DigitalGlobeReader
 
